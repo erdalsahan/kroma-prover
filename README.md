@@ -1,6 +1,6 @@
 # Kroma Prover
 [Kroma](https://github.com/kroma-network/kroma) is an Ethereum layer 2 network consisting of entities such as Proposer, Validators, Challengers, and more. The detailed explanations about our network and its entities can be found [here](https://github.com/kroma-network/kroma/blob/dev/specs/introduction.md).
-
+ 
 This [Prover](https://github.com/kroma-network/kroma/blob/dev/specs/zkevm-prover.md) is a component of the Kroma challenger that generates zkevm-proof for the Kroma blockchain. And the zkevm-proof is used as a fault proof to rectify the validator's misbehavior. The detailed explanations abount Challenge process can be found [here](https://github.com/kroma-network/kroma/blob/dev/specs/challenge.md).
 
 ## Requirements
